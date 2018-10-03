@@ -1,0 +1,12 @@
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Star_Pattern_Exercise\bin\Debug\Star_Pattern_Exercise.exe.config
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Star_Pattern_Exercise\bin\Debug\Star_Pattern_Exercise.exe
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Star_Pattern_Exercise\bin\Debug\Star_Pattern_Exercise.pdb
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Star_Pattern_Exercise\obj\Debug\Star_Pattern_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Star_Pattern_Exercise\obj\Debug\Star_Pattern_Exercise.exe
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Star_Pattern_Exercise\obj\Debug\Star_Pattern_Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Star_Pattern_Exercise\bin\Debug\Star_Pattern_Exercise.exe.config
+C:\Users\Reverside\Downloads\Basic Programming\Star_Pattern_Exercise\obj\Debug\Star_Pattern_Exercise.exe
+C:\Users\Reverside\Downloads\Basic Programming\Star_Pattern_Exercise\obj\Debug\Star_Pattern_Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Star_Pattern_Exercise\bin\Debug\Star_Pattern_Exercise.exe
+C:\Users\Reverside\Downloads\Basic Programming\Star_Pattern_Exercise\bin\Debug\Star_Pattern_Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Star_Pattern_Exercise\obj\Debug\Star_Pattern_Exercise.csprojResolveAssemblyReference.cache

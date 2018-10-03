@@ -1,0 +1,12 @@
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Iteration_Exercise\bin\Debug\Iteration_Exercise.exe.config
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Iteration_Exercise\bin\Debug\Iteration_Exercise.exe
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Iteration_Exercise\bin\Debug\Iteration_Exercise.pdb
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Iteration_Exercise\obj\Debug\Iteration_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Iteration_Exercise\obj\Debug\Iteration_Exercise.exe
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Iteration_Exercise\obj\Debug\Iteration_Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Iteration_Exercise\bin\Debug\Iteration_Exercise.exe.config
+C:\Users\Reverside\Downloads\Basic Programming\Iteration_Exercise\obj\Debug\Iteration_Exercise.exe
+C:\Users\Reverside\Downloads\Basic Programming\Iteration_Exercise\obj\Debug\Iteration_Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Iteration_Exercise\bin\Debug\Iteration_Exercise.exe
+C:\Users\Reverside\Downloads\Basic Programming\Iteration_Exercise\bin\Debug\Iteration_Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Iteration_Exercise\obj\Debug\Iteration_Exercise.csprojResolveAssemblyReference.cache

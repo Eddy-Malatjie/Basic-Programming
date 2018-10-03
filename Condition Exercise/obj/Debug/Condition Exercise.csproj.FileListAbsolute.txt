@@ -1,0 +1,12 @@
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Condition Exercise\bin\Debug\Condition Exercise.exe.config
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Condition Exercise\bin\Debug\Condition Exercise.exe
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Condition Exercise\bin\Debug\Condition Exercise.pdb
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Condition Exercise\obj\Debug\Condition Exercise.exe
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Condition Exercise\obj\Debug\Condition Exercise.pdb
+C:\Users\Reverside\documents\visual studio 2015\Projects\Basic Programming\Condition Exercise\obj\Debug\Condition Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Reverside\Downloads\Basic Programming\Condition Exercise\bin\Debug\Condition Exercise.exe.config
+C:\Users\Reverside\Downloads\Basic Programming\Condition Exercise\obj\Debug\Condition Exercise.exe
+C:\Users\Reverside\Downloads\Basic Programming\Condition Exercise\obj\Debug\Condition Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Condition Exercise\bin\Debug\Condition Exercise.exe
+C:\Users\Reverside\Downloads\Basic Programming\Condition Exercise\bin\Debug\Condition Exercise.pdb
+C:\Users\Reverside\Downloads\Basic Programming\Condition Exercise\obj\Debug\Condition Exercise.csprojResolveAssemblyReference.cache
